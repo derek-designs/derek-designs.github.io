@@ -14,7 +14,8 @@ and it gave me the idea to make a solar powered charger for my ipod.
  2. some resistors
   *  two 1k resistors;
   *  one 33k and one 66k resistor
- 3. battery holder for four AA
+ 3. battery holder for four AAA batteries
+ 4. four rechargeable AAA batteries
  4. a sweet tin
  5. diode
  6. some wire wire
